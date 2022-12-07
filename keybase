@@ -1,0 +1,85 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am notoom on github.
+  * I am notoom (https://keybase.io/notoom) on keybase.
+  * I have a public key whose fingerprint is F9E7 107F EF85 E7A1 B224  F44B C307 A286 37ED 75AD
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120480385ecb460bca52fdcd45fcda680df038a60042e6487385c644e73800f08440a",
+      "fingerprint": "f9e7107fef85e7a1b224f44bc307a28637ed75ad",
+      "host": "keybase.io",
+      "key_id": "c307a28637ed75ad",
+      "kid": "01018141c56d933ceae740509335795ecb2e72d99741604e5287ab825dbc53f5e42a0a",
+      "uid": "ff165f18ce119f9571bd6f9d5bb96819",
+      "username": "notoom"
+    },
+    "service": {
+      "name": "github",
+      "username": "notoom"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1670435892,
+  "expire_in": 157680000,
+  "prev": "9d55ddf20d66dd120d45fb6b95bcbc6bd492fc20aba9a003f16a1e6d6069ae3b",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [F9E7 107F EF85 E7A1 B224  F44B C307 A286 37ED 75AD](https://keybase.io/notoom), yielding the signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNbAnicdVJ7UFRVHF4QJFbBinIEG2Ju5TSyMufevU8ejcYkujCRKA8nhuXee85d
+VvblPnhIFBEyosyIUQ2D0CI0W7BSTWWFUgMJJjA0jpmYCMLQRLrJCONACkhnGf2v
+zj/nnN/v+775fo++sDUqdcD5kNZq7o6rM2Cot9alkuuu0GWEZIWlRHwZUYhWL2SC
+yOHUFxohEU8AkgI0D7Q8g2SJZoEkiwylQBnSjCJDkeUBVHBWZAGgKcTSPIehMkvT
+CD8AUABP00AkNIRitBiQ3WY3WpxYVhEQRwJOQQoW5kRSoihaoWlJ1gJOpHhWyyHI
+MSLExAKrw8/A5iTRgeKMVhzDH/2qvf/AP/YNSJ6kSZlhoaDVykhEHA0YgN8MJ/iL
+oRBHQUHgaJIFNGIonhMlnmKgJDNahUE0Ja76dq3KKQrJMgrJy4gkBUVgOFKCrCJA
+RpIElicFP9CB7BbRjDDaYnVarWaiXEPgWJFRRv62PsoZjM4Cl/R/eGepzR8oRpL+
+EVUvGS0Q9w4zipDdYbRaiHgSI2Wn0c8lWQ7QWoYXKA2BSmxGO9Ib/QiGw6PBR0PY
+7KgIS2KvDIQKBSDLQoin6p+gxEoCI8mSzEqQFihFpoAoiYIIgBYXLJKIhSxgBRFp
+/Y4d6KDFirVJ7FM0YE2H0WARnS47Isp/6s0NUgWoVWuDA/1LpVKHPvl41Z6q37BS
+uqEy7sveo7GdqqfRqe5r4tDOB5uWtortsbpG0HbdtO7A8kWz4+u1PWEndQkRw5Pm
+Y7fqVB2wpafvcMQHr4RklN/olP72KTrmK91cTb/tTf06zdlf8qr6YyovnRg0FRUq
+U7EVP6vnw1UvR7Pf+dIH3LdGk0Oqo++PJTQeiJwyHWsJijIveDP3L+4YCWuCF901
+Z3PONdxL14YNvup7q8EdNJ748LekvqokW9bg7hWN6kj4hLo7/9Kpg41vd9+RP/xx
+10Te69EbQ6e9hwqWtw1V5Q5VBO+YTr96W7V54p3engzP8vf1zfGe9zo+G/bctXcU
+TH+brXweOFBbU1ffNVOn2vPxZkP7iLdLO3umYe9Clrpskos1nMj9oel++OnUTFTy
+2pn9k6YxIjtr6/EXxn/vDxWbve4p9vLiPldRR/5C6/Hhd6vUdQNtcQ+e2ZU6NhJz
+fa4pezb3/dnL7uL1i9du3/OltHIzyc8uRbW+EdXlTphP2Z32iePq/DBZm3fkwqdy
+yOn1+aMJpMe7c3DLuU1T44PCWGtwZYVz9KW54b/aivv26M4HPte7ZtvNFt1J3pfR
+/GL1YqZS37S93bx0eC9si5xR70tO1MT5Vv68krKxIifxi7vbs9OSPkqLKen13Pgn
+JTw8aLEv3/PHyM1DMxlP2J8Xvol+uOXXsQsWU1WqN2KkMb4w8mhyjudfoTbE9w==
+=6w6o
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/notoom
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id notoom
+```
